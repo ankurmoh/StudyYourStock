@@ -1,3 +1,13 @@
+#StudyYourStock
+
+Designed a web application in ReactJS to display up to date stock information(including charts) for 100 companies listed on the NASDAQ index (APIs used : YFinance, AlphaVantage, NewsAPI)
+
+Used MySQL to store stock data, MongoDB to store News for the company in JSON format, and Flask to connect these databases to the front-end.
+
+Implemented parallel-processing in PySpark to display Company summary data, and also developed a Return on Investment calculator.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
